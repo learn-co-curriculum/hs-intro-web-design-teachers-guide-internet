@@ -23,3 +23,5 @@ Both computers and websites have their own unique IP addresses, which allow open
 
 ### Hints and Hurdles
 + IP addresses and HTTP requests is like texting!
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-internet' data-visibility='hidden'>View this lesson on Learn.co</a>
